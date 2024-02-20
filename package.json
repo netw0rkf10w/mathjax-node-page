@@ -29,6 +29,7 @@
   "homepage": "https://github.com/pkra/mathjax-node-page#readme",
   "dependencies": {
     "mathjax-node": "^2.0.0",
+    "mathjax-node-page": "^3.2.0",
     "yargs": "^13.0.0"
   },
   "devDependencies": {
